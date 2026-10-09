@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempoShift</string>
+    <string name="channel_playback">Playback</string>
+    <string name="notif_idle">Ready to play</string>
+    <string name="action_prev">Previous</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_next">Next</string>
+    <string name="permission_mic_rationale">TempoShift needs the microphone to record.</string>
+    <string name="permission_notif_rationale">Notifications let you control playback from the lock screen.</string>
+    <string name="pick_music_folder">Choose your music folder</string>
+</resources>
